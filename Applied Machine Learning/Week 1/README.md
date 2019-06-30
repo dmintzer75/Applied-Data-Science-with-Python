@@ -1,1 +1,1 @@
-
+This is the first assignment in the Applied Machine Learning with Python course from the University of Michigan Data Science Specialization. Mainly the supervised learning k-Nearest Neighbot model is used to predict if a breast tumor is benign or malign from the features of it (e.g. size, texture, etc.)
